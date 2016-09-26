@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Play Trivia</string>
+    <string name="header">Welcome to Trivia App</string>
+    <string name="exit">EXIT</string>
+    <string name="start">Start Trivia</string>
+    <string name="quit">Quit</string>
+    <string name="next">Next</string>
+    <string name="lbl_triviaStats">Trivia Stats</string>
+    <string name="lbl">Correct Answers</string>
+    <string name="lbl_tryAgain">Try again to see if you can get all answers correct!</string>
+    <string name="tryAgain">Try Again</string>
+</resources>
